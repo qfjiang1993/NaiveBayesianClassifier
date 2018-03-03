@@ -1,2 +1,4 @@
 # NaiveBayesianClassifier
 朴素贝叶斯分类器
+
+基于MapReduce实现的朴素贝叶斯分类器
